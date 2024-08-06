@@ -1,0 +1,1149 @@
+{
+  "id": 97368245797968,
+  "type": "root",
+  "orientation": "horizontal",
+  "scratchpad_state": "none",
+  "percent": 1.0,
+  "urgent": false,
+  "marks": [],
+  "focused": false,
+  "layout": "splith",
+  "workspace_layout": "default",
+  "last_split_layout": "splith",
+  "border": "normal",
+  "current_border_width": -1,
+  "rect": {
+    "x": 0,
+    "y": 0,
+    "width": 1920,
+    "height": 1080
+  },
+  "deco_rect": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "window_rect": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "geometry": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "name": "root",
+  "window_icon_padding": -1,
+  "window": null,
+  "window_type": null,
+  "nodes": [
+    {
+      "id": 97368245798448,
+      "type": "output",
+      "orientation": "none",
+      "scratchpad_state": "none",
+      "percent": 0.5,
+      "urgent": false,
+      "marks": [],
+      "focused": false,
+      "layout": "output",
+      "workspace_layout": "default",
+      "last_split_layout": "splith",
+      "border": "normal",
+      "current_border_width": -1,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "deco_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "window_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "__i3",
+      "window_icon_padding": -1,
+      "window": null,
+      "window_type": null,
+      "nodes": [
+        {
+          "id": 97368245800992,
+          "type": "con",
+          "orientation": "horizontal",
+          "scratchpad_state": "none",
+          "percent": 1.0,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "output": "__i3",
+          "layout": "splith",
+          "workspace_layout": "default",
+          "last_split_layout": "splith",
+          "border": "normal",
+          "current_border_width": -1,
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "content",
+          "window_icon_padding": -1,
+          "window": null,
+          "window_type": null,
+          "nodes": [
+            {
+              "id": 97368245801472,
+              "type": "workspace",
+              "orientation": "none",
+              "scratchpad_state": "none",
+              "percent": 1.0,
+              "urgent": false,
+              "marks": [],
+              "focused": false,
+              "output": "__i3",
+              "layout": "splith",
+              "workspace_layout": "default",
+              "last_split_layout": "splith",
+              "border": "normal",
+              "current_border_width": -1,
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "window_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "name": "__i3_scratch",
+              "window_icon_padding": -1,
+              "num": -1,
+              "gaps": {
+                "inner": 0,
+                "outer": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              },
+              "window": null,
+              "window_type": null,
+              "nodes": [],
+              "floating_nodes": [],
+              "focus": [],
+              "fullscreen_mode": 1,
+              "sticky": false,
+              "floating": "auto_off",
+              "swallows": []
+            }
+          ],
+          "floating_nodes": [],
+          "focus": [
+            97368245801472
+          ],
+          "fullscreen_mode": 0,
+          "sticky": false,
+          "floating": "auto_off",
+          "swallows": []
+        }
+      ],
+      "floating_nodes": [],
+      "focus": [
+        97368245800992
+      ],
+      "fullscreen_mode": 0,
+      "sticky": false,
+      "floating": "auto_off",
+      "swallows": []
+    },
+    {
+      "id": 97368245809872,
+      "type": "output",
+      "orientation": "none",
+      "scratchpad_state": "none",
+      "percent": 0.5,
+      "urgent": false,
+      "marks": [],
+      "focused": false,
+      "layout": "output",
+      "workspace_layout": "default",
+      "last_split_layout": "splith",
+      "border": "normal",
+      "current_border_width": -1,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "deco_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "window_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "eDP",
+      "window_icon_padding": -1,
+      "window": null,
+      "window_type": null,
+      "nodes": [
+        {
+          "id": 97368245810352,
+          "type": "dockarea",
+          "orientation": "none",
+          "scratchpad_state": "none",
+          "percent": 0.33333333333333331483,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "output": "eDP",
+          "layout": "dockarea",
+          "workspace_layout": "default",
+          "last_split_layout": "splith",
+          "border": "normal",
+          "current_border_width": -1,
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 0
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "actual_deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "topdock",
+          "window_icon_padding": -1,
+          "window": null,
+          "window_type": null,
+          "nodes": [],
+          "floating_nodes": [],
+          "focus": [],
+          "fullscreen_mode": 0,
+          "sticky": false,
+          "floating": "auto_off",
+          "swallows": [
+            {
+              "dock": 2,
+              "insert_where": 2
+            }
+          ]
+        },
+        {
+          "id": 97368245813472,
+          "type": "con",
+          "orientation": "horizontal",
+          "scratchpad_state": "none",
+          "percent": 0.33333333333333331483,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "output": "eDP",
+          "layout": "splith",
+          "workspace_layout": "default",
+          "last_split_layout": "splith",
+          "border": "normal",
+          "current_border_width": -1,
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 1056
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "content",
+          "window_icon_padding": -1,
+          "window": null,
+          "window_type": null,
+          "nodes": [
+            {
+              "id": 97368245813952,
+              "type": "workspace",
+              "orientation": "vertical",
+              "scratchpad_state": "none",
+              "percent": 1.0,
+              "urgent": false,
+              "marks": [],
+              "focused": false,
+              "output": "eDP",
+              "layout": "splitv",
+              "workspace_layout": "default",
+              "last_split_layout": "splitv",
+              "border": "normal",
+              "current_border_width": -1,
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1056
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "window_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "name": "1",
+              "window_icon_padding": -1,
+              "num": 1,
+              "gaps": {
+                "inner": 0,
+                "outer": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              },
+              "window": null,
+              "window_type": null,
+              "nodes": [
+                {
+                  "id": 97368246210000,
+                  "type": "con",
+                  "orientation": "vertical",
+                  "scratchpad_state": "none",
+                  "percent": 1.0,
+                  "urgent": false,
+                  "marks": [],
+                  "focused": false,
+                  "output": "eDP",
+                  "layout": "splitv",
+                  "workspace_layout": "default",
+                  "last_split_layout": "splitv",
+                  "border": "normal",
+                  "current_border_width": -1,
+                  "rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 1920,
+                    "height": 1056
+                  },
+                  "deco_rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  },
+                  "window_rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  },
+                  "geometry": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  },
+                  "name": null,
+                  "window_icon_padding": -1,
+                  "window": null,
+                  "window_type": null,
+                  "nodes": [
+                    {
+                      "id": 97368245814432,
+                      "type": "con",
+                      "orientation": "horizontal",
+                      "scratchpad_state": "none",
+                      "percent": 1.0,
+                      "urgent": false,
+                      "marks": [],
+                      "focused": false,
+                      "output": "eDP",
+                      "layout": "splith",
+                      "workspace_layout": "default",
+                      "last_split_layout": "splith",
+                      "border": "normal",
+                      "current_border_width": -1,
+                      "rect": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 1920,
+                        "height": 1056
+                      },
+                      "deco_rect": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0
+                      },
+                      "window_rect": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0
+                      },
+                      "geometry": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 0,
+                        "height": 0
+                      },
+                      "name": null,
+                      "window_icon_padding": -1,
+                      "window": null,
+                      "window_type": null,
+                      "nodes": [
+                        {
+                          "id": 97368245814912,
+                          "type": "con",
+                          "orientation": "horizontal",
+                          "scratchpad_state": "none",
+                          "percent": 1.0,
+                          "urgent": false,
+                          "marks": [],
+                          "focused": false,
+                          "output": "eDP",
+                          "layout": "tabbed",
+                          "workspace_layout": "default",
+                          "last_split_layout": "splith",
+                          "border": "normal",
+                          "current_border_width": -1,
+                          "rect": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 1920,
+                            "height": 1056
+                          },
+                          "deco_rect": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 0,
+                            "height": 0
+                          },
+                          "window_rect": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 0,
+                            "height": 0
+                          },
+                          "geometry": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 0,
+                            "height": 0
+                          },
+                          "name": null,
+                          "window_icon_padding": -1,
+                          "window": null,
+                          "window_type": null,
+                          "nodes": [
+                            {
+                              "id": 97368245815392,
+                              "type": "con",
+                              "orientation": "none",
+                              "scratchpad_state": "none",
+                              "percent": 0.33333333333333331483,
+                              "urgent": false,
+                              "marks": [],
+                              "focused": false,
+                              "output": "eDP",
+                              "layout": "splith",
+                              "workspace_layout": "default",
+                              "last_split_layout": "splith",
+                              "border": "normal",
+                              "current_border_width": 2,
+                              "rect": {
+                                "x": 0,
+                                "y": 22,
+                                "width": 1920,
+                                "height": 1034
+                              },
+                              "deco_rect": {
+                                "x": 0,
+                                "y": 0,
+                                "width": 640,
+                                "height": 22
+                              },
+                              "window_rect": {
+                                "x": 2,
+                                "y": 0,
+                                "width": 1916,
+                                "height": 1032
+                              },
+                              "geometry": {
+                                "x": 0,
+                                "y": 0,
+                                "width": 1916,
+                                "height": 1032
+                              },
+                              "name": "ChatGPT — Mozilla Firefox",
+                              "window_icon_padding": -1,
+                              "window": 29360172,
+                              "window_type": "normal",
+                              "window_properties": {
+                                "class": "firefox",
+                                "instance": "Navigator",
+                                "window_role": "browser",
+                                "machine": "star",
+                                "title": "ChatGPT — Mozilla Firefox",
+                                "transient_for": null
+                              },
+                              "nodes": [],
+                              "floating_nodes": [],
+                              "focus": [],
+                              "fullscreen_mode": 0,
+                              "sticky": false,
+                              "floating": "auto_off",
+                              "swallows": []
+                            },
+                            {
+                              "id": 97368245779856,
+                              "type": "con",
+                              "orientation": "horizontal",
+                              "scratchpad_state": "none",
+                              "percent": 0.33333333333333331483,
+                              "urgent": false,
+                              "marks": [],
+                              "focused": false,
+                              "output": "eDP",
+                              "layout": "splith",
+                              "workspace_layout": "default",
+                              "last_split_layout": "splith",
+                              "border": "normal",
+                              "current_border_width": -1,
+                              "rect": {
+                                "x": 0,
+                                "y": 22,
+                                "width": 1920,
+                                "height": 1034
+                              },
+                              "deco_rect": {
+                                "x": 640,
+                                "y": 0,
+                                "width": 640,
+                                "height": 22
+                              },
+                              "window_rect": {
+                                "x": 0,
+                                "y": 0,
+                                "width": 0,
+                                "height": 0
+                              },
+                              "geometry": {
+                                "x": 0,
+                                "y": 0,
+                                "width": 0,
+                                "height": 0
+                              },
+                              "name": null,
+                              "window_icon_padding": -1,
+                              "window": null,
+                              "window_type": null,
+                              "nodes": [
+                                {
+                                  "id": 97368245825232,
+                                  "type": "con",
+                                  "orientation": "none",
+                                  "scratchpad_state": "none",
+                                  "percent": 0.5,
+                                  "urgent": false,
+                                  "marks": [],
+                                  "focused": false,
+                                  "output": "eDP",
+                                  "layout": "splith",
+                                  "workspace_layout": "default",
+                                  "last_split_layout": "splith",
+                                  "border": "pixel",
+                                  "current_border_width": 2,
+                                  "rect": {
+                                    "x": 0,
+                                    "y": 22,
+                                    "width": 960,
+                                    "height": 1034
+                                  },
+                                  "deco_rect": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "width": 0,
+                                    "height": 0
+                                  },
+                                  "window_rect": {
+                                    "x": 2,
+                                    "y": 2,
+                                    "width": 956,
+                                    "height": 1030
+                                  },
+                                  "geometry": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "width": 960,
+                                    "height": 648
+                                  },
+                                  "name": "nvim move_arrows.sh ~/i3_scripts",
+                                  "window_icon_padding": -1,
+                                  "window": 31457331,
+                                  "window_type": "unknown",
+                                  "window_properties": {
+                                    "class": "org.wezfurlong.wezterm",
+                                    "instance": "org.wezfurlong.wezterm",
+                                    "title": "nvim move_arrows.sh ~/i3_scripts",
+                                    "transient_for": null
+                                  },
+                                  "nodes": [],
+                                  "floating_nodes": [],
+                                  "focus": [],
+                                  "fullscreen_mode": 0,
+                                  "sticky": false,
+                                  "floating": "auto_off",
+                                  "swallows": []
+                                },
+                                {
+                                  "id": 97368245675808,
+                                  "type": "con",
+                                  "orientation": "none",
+                                  "scratchpad_state": "none",
+                                  "percent": 0.5,
+                                  "urgent": false,
+                                  "marks": [],
+                                  "focused": true,
+                                  "output": "eDP",
+                                  "layout": "splith",
+                                  "workspace_layout": "default",
+                                  "last_split_layout": "splith",
+                                  "border": "pixel",
+                                  "current_border_width": 2,
+                                  "rect": {
+                                    "x": 960,
+                                    "y": 22,
+                                    "width": 960,
+                                    "height": 1034
+                                  },
+                                  "deco_rect": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "width": 0,
+                                    "height": 0
+                                  },
+                                  "window_rect": {
+                                    "x": 2,
+                                    "y": 2,
+                                    "width": 956,
+                                    "height": 1030
+                                  },
+                                  "geometry": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "width": 960,
+                                    "height": 648
+                                  },
+                                  "name": "~/i3_scripts",
+                                  "window_icon_padding": -1,
+                                  "window": 31457630,
+                                  "window_type": "unknown",
+                                  "window_properties": {
+                                    "class": "org.wezfurlong.wezterm",
+                                    "instance": "org.wezfurlong.wezterm",
+                                    "title": "~/i3_scripts",
+                                    "transient_for": null
+                                  },
+                                  "nodes": [],
+                                  "floating_nodes": [],
+                                  "focus": [],
+                                  "fullscreen_mode": 0,
+                                  "sticky": false,
+                                  "floating": "auto_off",
+                                  "swallows": []
+                                }
+                              ],
+                              "floating_nodes": [],
+                              "focus": [
+                                97368245675808,
+                                97368245825232
+                              ],
+                              "fullscreen_mode": 0,
+                              "sticky": false,
+                              "floating": "auto_off",
+                              "swallows": []
+                            },
+                            {
+                              "id": 97368245818992,
+                              "type": "con",
+                              "orientation": "none",
+                              "scratchpad_state": "none",
+                              "percent": 0.33333333333333331483,
+                              "urgent": false,
+                              "marks": [],
+                              "focused": false,
+                              "output": "eDP",
+                              "layout": "splith",
+                              "workspace_layout": "default",
+                              "last_split_layout": "splith",
+                              "border": "pixel",
+                              "current_border_width": 2,
+                              "rect": {
+                                "x": 0,
+                                "y": 22,
+                                "width": 1920,
+                                "height": 1034
+                              },
+                              "deco_rect": {
+                                "x": 1280,
+                                "y": 0,
+                                "width": 640,
+                                "height": 22
+                              },
+                              "window_rect": {
+                                "x": 2,
+                                "y": 0,
+                                "width": 1916,
+                                "height": 1032
+                              },
+                              "geometry": {
+                                "x": 0,
+                                "y": 0,
+                                "width": 960,
+                                "height": 648
+                              },
+                              "name": "nvim config  ~/.c/i3",
+                              "window_icon_padding": -1,
+                              "window": 31457283,
+                              "window_type": "unknown",
+                              "window_properties": {
+                                "class": "org.wezfurlong.wezterm",
+                                "instance": "org.wezfurlong.wezterm",
+                                "title": "nvim config  ~/.c/i3",
+                                "transient_for": null
+                              },
+                              "nodes": [],
+                              "floating_nodes": [],
+                              "focus": [],
+                              "fullscreen_mode": 0,
+                              "sticky": false,
+                              "floating": "auto_off",
+                              "swallows": []
+                            }
+                          ],
+                          "floating_nodes": [],
+                          "focus": [
+                            97368245779856,
+                            97368245818992,
+                            97368245815392
+                          ],
+                          "fullscreen_mode": 0,
+                          "sticky": false,
+                          "floating": "auto_off",
+                          "swallows": []
+                        }
+                      ],
+                      "floating_nodes": [],
+                      "focus": [
+                        97368245814912
+                      ],
+                      "fullscreen_mode": 0,
+                      "sticky": false,
+                      "floating": "auto_off",
+                      "swallows": []
+                    }
+                  ],
+                  "floating_nodes": [],
+                  "focus": [
+                    97368245814432
+                  ],
+                  "fullscreen_mode": 0,
+                  "sticky": false,
+                  "floating": "auto_off",
+                  "swallows": []
+                }
+              ],
+              "floating_nodes": [],
+              "focus": [
+                97368246210000
+              ],
+              "fullscreen_mode": 1,
+              "sticky": false,
+              "floating": "auto_off",
+              "swallows": []
+            },
+            {
+              "id": 97368246236736,
+              "type": "workspace",
+              "orientation": "horizontal",
+              "scratchpad_state": "none",
+              "percent": null,
+              "urgent": false,
+              "marks": [],
+              "focused": false,
+              "output": "eDP",
+              "layout": "splith",
+              "workspace_layout": "default",
+              "last_split_layout": "splith",
+              "border": "normal",
+              "current_border_width": -1,
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1056
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "window_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "name": "2",
+              "window_icon_padding": -1,
+              "num": 2,
+              "gaps": {
+                "inner": 0,
+                "outer": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              },
+              "window": null,
+              "window_type": null,
+              "nodes": [
+                {
+                  "id": 97368246227792,
+                  "type": "con",
+                  "orientation": "none",
+                  "scratchpad_state": "none",
+                  "percent": 1.0,
+                  "urgent": false,
+                  "marks": [],
+                  "focused": false,
+                  "output": "eDP",
+                  "layout": "splith",
+                  "workspace_layout": "default",
+                  "last_split_layout": "splith",
+                  "border": "normal",
+                  "current_border_width": 2,
+                  "rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 1920,
+                    "height": 1056
+                  },
+                  "deco_rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 1920,
+                    "height": 22
+                  },
+                  "actual_deco_rect": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 1920,
+                    "height": 22
+                  },
+                  "window_rect": {
+                    "x": 2,
+                    "y": 22,
+                    "width": 1916,
+                    "height": 1032
+                  },
+                  "geometry": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 1916,
+                    "height": 1032
+                  },
+                  "name": "Mozilla Firefox",
+                  "window_icon_padding": -1,
+                  "window": 29364567,
+                  "window_type": "normal",
+                  "window_properties": {
+                    "class": "firefox",
+                    "instance": "Navigator",
+                    "window_role": "browser",
+                    "machine": "star",
+                    "title": "Mozilla Firefox",
+                    "transient_for": null
+                  },
+                  "nodes": [],
+                  "floating_nodes": [],
+                  "focus": [],
+                  "fullscreen_mode": 0,
+                  "sticky": false,
+                  "floating": "auto_off",
+                  "swallows": []
+                }
+              ],
+              "floating_nodes": [],
+              "focus": [
+                97368246227792
+              ],
+              "fullscreen_mode": 0,
+              "sticky": false,
+              "floating": "auto_off",
+              "swallows": []
+            }
+          ],
+          "floating_nodes": [],
+          "focus": [
+            97368245813952,
+            97368246236736
+          ],
+          "fullscreen_mode": 0,
+          "sticky": false,
+          "floating": "auto_off",
+          "swallows": []
+        },
+        {
+          "id": 97368245845856,
+          "type": "dockarea",
+          "orientation": "none",
+          "scratchpad_state": "none",
+          "percent": 0.33333333333333331483,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "output": "eDP",
+          "layout": "dockarea",
+          "workspace_layout": "default",
+          "last_split_layout": "splith",
+          "border": "normal",
+          "current_border_width": -1,
+          "rect": {
+            "x": 0,
+            "y": 1056,
+            "width": 1920,
+            "height": 24
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "bottomdock",
+          "window_icon_padding": -1,
+          "window": null,
+          "window_type": null,
+          "nodes": [
+            {
+              "id": 97368245451696,
+              "type": "con",
+              "orientation": "none",
+              "scratchpad_state": "none",
+              "percent": 1.0,
+              "urgent": false,
+              "marks": [],
+              "focused": false,
+              "output": "eDP",
+              "layout": "splith",
+              "workspace_layout": "default",
+              "last_split_layout": "splith",
+              "border": "normal",
+              "current_border_width": 2,
+              "rect": {
+                "x": 0,
+                "y": 1056,
+                "width": 1920,
+                "height": 24
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0
+              },
+              "window_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 24
+              },
+              "geometry": {
+                "x": 0,
+                "y": 1056,
+                "width": 1920,
+                "height": 24
+              },
+              "name": "i3bar for output eDP",
+              "window_icon_padding": -1,
+              "window": 8400945,
+              "window_type": "unknown",
+              "window_properties": {
+                "class": "i3bar",
+                "instance": "bar-0",
+                "title": "i3bar for output eDP",
+                "transient_for": null
+              },
+              "nodes": [],
+              "floating_nodes": [],
+              "focus": [],
+              "fullscreen_mode": 0,
+              "sticky": false,
+              "floating": "auto_off",
+              "swallows": []
+            }
+          ],
+          "floating_nodes": [],
+          "focus": [
+            97368245451696
+          ],
+          "fullscreen_mode": 0,
+          "sticky": false,
+          "floating": "auto_off",
+          "swallows": [
+            {
+              "dock": 3,
+              "insert_where": 2
+            }
+          ]
+        }
+      ],
+      "floating_nodes": [],
+      "focus": [
+        97368245813472,
+        97368245810352,
+        97368245845856
+      ],
+      "fullscreen_mode": 0,
+      "sticky": false,
+      "floating": "auto_off",
+      "swallows": []
+    }
+  ],
+  "floating_nodes": [],
+  "focus": [
+    97368245809872,
+    97368245798448
+  ],
+  "fullscreen_mode": 0,
+  "sticky": false,
+  "floating": "auto_off",
+  "swallows": []
+}
