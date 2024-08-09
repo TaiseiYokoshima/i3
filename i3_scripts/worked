@@ -1,4 +1,0 @@
- ~ ⋊> i3-msg -t get_tree | jq '.. | select(type == "object" and .focused == true)'
-
-
- i3_scripts ⋊> i3-msg -t get_tree | jq -r 'recurse(.nodes[];.nodes!=null)|select(.nodes[].focused).layout'
